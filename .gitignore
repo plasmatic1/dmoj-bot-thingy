@@ -1,2 +1,3 @@
 conf.yml
 /venv/
+__pycache__/
