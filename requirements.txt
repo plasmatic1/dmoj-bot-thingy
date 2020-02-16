@@ -8,6 +8,7 @@ idna==2.8
 multidict==4.7.4
 PyYAML==5.3
 requests==2.22.0
+tinydb==3.15.2
 urllib3==1.25.8
 websockets==8.1
 yarl==1.4.2
